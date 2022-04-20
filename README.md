@@ -1,4 +1,4 @@
-Este Projeto foi realizado através do conhecimento adquirido do Flexbox.As tecnologias usadas foam apenas HTML e CSS.
+Uma Página Web de Viagem ,utlizando HTML e CSS. 
 
 # DESKTOP
 
