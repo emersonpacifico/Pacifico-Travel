@@ -2,4 +2,4 @@ Este Projeto foi realizado através do conhecimento adquirido do Flexbox.As tecn
 
 # DESKTOP
 
-![enter image description here](https://github.com/emersonpacifico/Pacifico-Travel/blob/master/assents/pacificotravel.gife)
+![enter image description here](https://github.com/emersonpacifico/Pacifico-Travel/blob/master/assents/pacificotravel.gif)
